@@ -4,7 +4,7 @@ Codes for Renquan Zhang, Jilei Tai, Qing Yao, Wan Yang, Kai Ruggeri, Jeffrey Sha
 
 ## System requirements and installation guide
 
-The codes can be run on regular laptops or desktop computers. No installation is required. You can run the codes using any computing platform that supports python programming.
+The codes can be run on regular laptops or desktop computers. No installation is required. You can run the codes using any computing platform that supports Python programming. The codes have been tested on Python 3.12.1.
 
 ## Demo and instructions for use
 
