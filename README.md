@@ -1,6 +1,6 @@
 # Behavior-driven forecasts of neighborhood-level COVID-19 spread in New York City
 
-Codes for Renquan Zhang, Jilei Tai, Qing Yao, Wan Yang, Kai Ruggeri, Jeffrey Shaman, Sen Pei.  Behavior-driven forecasts of neighborhood-level COVID-19 spread in New York City. 
+Codes for Renquan Zhang, Jilei Tai, Qing Yao, Wan Yang, Kai Ruggeri, Jeffrey Shaman, Sen Pei.  Behavior-driven forecasts of neighborhood-level COVID-19 spread in New York City. Codes were programmed by Jilei Tai (taijilei@mail.dlut.edu.cn).
 
 ## 1. Synthetic disease transmission
 
