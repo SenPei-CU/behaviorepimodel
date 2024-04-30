@@ -33,5 +33,7 @@ NYC_sim_obs.txt: Simulation-generated daily number of new infections in New York
 NYCpop.xlsx：New York City Population by UHF
 
 sim_obs.xlsx：Daily detection rate for synthetic simulation
+
 uhf_sim_obs.txt: Simulation-generated weekly number of new confirmed diagnoses at each UHF 
+
 uhf_info.xlsx:Names, Zip Codes, and more for 42 UHFs in New York City
